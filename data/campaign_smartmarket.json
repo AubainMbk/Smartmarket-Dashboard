@@ -1,0 +1,34 @@
+[
+  {
+    "campaign_id": "CAMP01",
+    "channel": "Emailing",
+    "cost": 1200,
+    "impressions": 50000,
+    "clicks": 1500,
+    "conversions": 120
+  },
+  {
+    "campaign_id": "CAMP02",
+    "channel": "Facebook Ads",
+    "cost": 3000,
+    "impressions": 90000,
+    "clicks": 2200,
+    "conversions": 180
+  },
+  {
+    "campaign_id": "CAMP03",
+    "channel": "LinkedIn",
+    "cost": 2500,
+    "impressions": 40000,
+    "clicks": 900,
+    "conversions": 75
+  },
+  {
+    "campaign_id": "CAMP04",
+    "channel": "Instagram Ads",
+    "cost": 1800,
+    "impressions": 70000,
+    "clicks": 2600,
+    "conversions": 210
+  }
+]

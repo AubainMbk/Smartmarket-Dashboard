@@ -1,0 +1,55 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+.env
+.venv/
+venv/
+
+# =========================
+# OS / IDE
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Streamlit cache
+# =========================
+.streamlit/
+
+# =========================
+# Outputs & exports (à exclure)
+# =========================
+outputs/
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# =========================
+# Data générée / intermédiaire (à exclure)
+# =========================
+dataset.py
+Analyse_descriptive.py
+leads_enriched.csv
+kpi_by_channel.csv
+crosstab_*.csv
+*_extended.csv
+*_extended.xlsx
+
+# =========================
+# Notebooks (si ajout plus tard)
+# =========================
+*.ipynb
+.ipynb_checkpoints/
+
+# =========================
+# Tests temporaires
+# =========================
+test_*.py
