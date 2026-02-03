@@ -40,8 +40,8 @@ Analyse_descriptive.py
 leads_enriched.csv
 kpi_by_channel.csv
 crosstab_*.csv
-*_extended.csv
-*_extended.xlsx
+*.csv
+*.xlsx
 
 # =========================
 # Notebooks (si ajout plus tard)
