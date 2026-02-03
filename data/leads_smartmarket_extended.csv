@@ -1,0 +1,306 @@
+lead_id,date,channel,device
+101,2025-09-01,Emailing,Mobile 
+102,2025-09-02,Facebook Ads,Desktop 
+103,2025-09-03,LinkedIn,Mobile 
+104,2025-09-04,Emailing,Tablet 
+105,2025-09-05,Instagram Ads,Mobile 
+106,2025-09-04,Emailing,Tablet
+107,2025-09-24,Emailing,Tablet
+108,2025-09-08,Instagram Ads,Mobile
+109,2025-09-05,Facebook Ads,Mobile
+110,2025-09-22,Facebook Ads,Desktop
+111,2025-09-19,LinkedIn,Mobile
+112,2025-09-02,Emailing,Mobile
+113,2025-09-03,Emailing,Tablet
+114,2025-09-08,Facebook Ads,Mobile
+115,2025-09-18,Facebook Ads,Tablet
+116,2025-09-23,Emailing,Mobile
+117,2025-09-08,Emailing,Desktop
+118,2025-09-19,Emailing,Desktop
+119,2025-09-26,Emailing,Mobile
+120,2025-09-25,Emailing,Mobile
+121,2025-09-23,Emailing,Desktop
+122,2025-09-11,Facebook Ads,Mobile
+123,2025-09-05,Emailing,Mobile
+124,2025-09-25,Emailing,Mobile
+125,2025-09-04,LinkedIn,Tablet
+126,2025-09-13,Instagram Ads,Tablet
+127,2025-09-12,Instagram Ads,Tablet
+128,2025-09-20,Emailing,Mobile
+129,2025-09-26,Emailing,Tablet
+130,2025-09-24,Emailing,Mobile
+131,2025-09-18,Instagram Ads,Mobile
+132,2025-09-30,LinkedIn,Desktop
+133,2025-09-03,LinkedIn,Mobile
+134,2025-09-10,Emailing,Mobile
+135,2025-09-20,LinkedIn,Mobile
+136,2025-09-19,Emailing,Mobile
+137,2025-09-23,Instagram Ads,Mobile
+138,2025-09-02,Instagram Ads,Desktop
+139,2025-09-08,Instagram Ads,Desktop
+140,2025-09-03,LinkedIn,Mobile
+141,2025-09-28,Facebook Ads,Desktop
+142,2025-09-13,Emailing,Desktop
+143,2025-09-15,Emailing,Mobile
+144,2025-09-27,Instagram Ads,Desktop
+145,2025-09-06,Emailing,Desktop
+146,2025-09-12,Instagram Ads,Tablet
+147,2025-09-22,Facebook Ads,Tablet
+148,2025-09-23,Instagram Ads,Mobile
+149,2025-09-21,Facebook Ads,Mobile
+150,2025-09-20,Instagram Ads,Desktop
+151,2025-09-06,Instagram Ads,Desktop
+152,2025-09-24,LinkedIn,Desktop
+153,2025-09-06,Emailing,Mobile
+154,2025-09-13,Emailing,Mobile
+155,2025-09-30,Emailing,Mobile
+156,2025-09-23,Emailing,Mobile
+157,2025-09-08,Facebook Ads,Mobile
+158,2025-09-11,Emailing,Tablet
+159,2025-09-08,Emailing,Mobile
+160,2025-09-26,Instagram Ads,Desktop
+161,2025-09-13,Emailing,Desktop
+162,2025-09-03,Instagram Ads,Desktop
+163,2025-09-30,Emailing,Mobile
+164,2025-09-29,Emailing,Desktop
+165,2025-09-07,Emailing,Desktop
+166,2025-09-16,Emailing,Desktop
+167,2025-09-29,Instagram Ads,Tablet
+168,2025-09-05,Emailing,Desktop
+169,2025-09-05,Instagram Ads,Mobile
+170,2025-09-24,LinkedIn,Desktop
+171,2025-09-24,Instagram Ads,Mobile
+172,2025-09-14,Instagram Ads,Mobile
+173,2025-09-12,Facebook Ads,Desktop
+174,2025-09-05,Instagram Ads,Mobile
+175,2025-09-03,LinkedIn,Mobile
+176,2025-09-28,LinkedIn,Desktop
+177,2025-09-05,Facebook Ads,Tablet
+178,2025-09-26,LinkedIn,Mobile
+179,2025-09-20,LinkedIn,Mobile
+180,2025-09-13,Instagram Ads,Tablet
+181,2025-09-20,LinkedIn,Mobile
+182,2025-09-17,Emailing,Mobile
+183,2025-09-18,LinkedIn,Mobile
+184,2025-09-22,Emailing,Tablet
+185,2025-09-22,Facebook Ads,Tablet
+186,2025-09-25,LinkedIn,Desktop
+187,2025-09-25,Emailing,Mobile
+188,2025-09-11,Emailing,Mobile
+189,2025-09-10,Instagram Ads,Tablet
+190,2025-09-06,LinkedIn,Mobile
+191,2025-09-01,LinkedIn,Mobile
+192,2025-09-29,Emailing,Desktop
+193,2025-09-09,Instagram Ads,Desktop
+194,2025-09-25,Emailing,Tablet
+195,2025-09-17,LinkedIn,Tablet
+196,2025-09-28,Instagram Ads,Desktop
+197,2025-09-10,Emailing,Desktop
+198,2025-09-17,Facebook Ads,Mobile
+199,2025-09-07,LinkedIn,Desktop
+200,2025-09-12,Emailing,Mobile
+201,2025-09-18,Facebook Ads,Desktop
+202,2025-09-30,Emailing,Tablet
+203,2025-09-20,Facebook Ads,Mobile
+204,2025-09-16,Emailing,Mobile
+205,2025-09-04,Instagram Ads,Mobile
+206,2025-09-29,Emailing,Mobile
+207,2025-09-08,Emailing,Mobile
+208,2025-09-08,LinkedIn,Mobile
+209,2025-09-03,Instagram Ads,Desktop
+210,2025-09-16,LinkedIn,Mobile
+211,2025-09-25,LinkedIn,Tablet
+212,2025-09-05,Facebook Ads,Mobile
+213,2025-09-18,Emailing,Mobile
+214,2025-09-09,LinkedIn,Mobile
+215,2025-09-07,Facebook Ads,Mobile
+216,2025-09-25,Emailing,Tablet
+217,2025-09-23,Emailing,Mobile
+218,2025-09-13,Emailing,Mobile
+219,2025-09-21,Instagram Ads,Tablet
+220,2025-09-15,Instagram Ads,Mobile
+221,2025-09-15,Emailing,Mobile
+222,2025-09-08,Emailing,Mobile
+223,2025-09-03,Emailing,Mobile
+224,2025-09-01,Emailing,Desktop
+225,2025-09-18,Emailing,Tablet
+226,2025-09-19,Instagram Ads,Mobile
+227,2025-09-01,Emailing,Desktop
+228,2025-09-23,LinkedIn,Mobile
+229,2025-09-02,Facebook Ads,Mobile
+230,2025-09-03,Emailing,Tablet
+231,2025-09-28,Emailing,Tablet
+232,2025-09-03,LinkedIn,Mobile
+233,2025-09-09,Emailing,Desktop
+234,2025-09-07,Emailing,Desktop
+235,2025-09-24,LinkedIn,Mobile
+236,2025-09-08,LinkedIn,Mobile
+237,2025-09-26,Facebook Ads,Mobile
+238,2025-09-07,Facebook Ads,Desktop
+239,2025-09-04,LinkedIn,Tablet
+240,2025-09-14,Facebook Ads,Desktop
+241,2025-09-14,Instagram Ads,Desktop
+242,2025-09-15,Facebook Ads,Mobile
+243,2025-09-02,Emailing,Mobile
+244,2025-09-02,LinkedIn,Mobile
+245,2025-09-24,Facebook Ads,Mobile
+246,2025-09-26,Emailing,Desktop
+247,2025-09-08,Emailing,Tablet
+248,2025-09-07,Emailing,Tablet
+249,2025-09-15,Facebook Ads,Mobile
+250,2025-09-14,Facebook Ads,Mobile
+251,2025-09-09,Emailing,Mobile
+252,2025-09-08,LinkedIn,Desktop
+253,2025-09-15,Emailing,Mobile
+254,2025-09-04,Emailing,Mobile
+255,2025-09-21,LinkedIn,Mobile
+256,2025-09-03,Emailing,Mobile
+257,2025-09-06,Instagram Ads,Mobile
+258,2025-09-16,LinkedIn,Mobile
+259,2025-09-07,LinkedIn,Mobile
+260,2025-09-29,Facebook Ads,Mobile
+261,2025-09-06,Emailing,Desktop
+262,2025-09-01,Emailing,Tablet
+263,2025-09-09,LinkedIn,Desktop
+264,2025-09-10,Instagram Ads,Mobile
+265,2025-09-23,Facebook Ads,Mobile
+266,2025-09-05,Emailing,Desktop
+267,2025-09-10,LinkedIn,Mobile
+268,2025-09-02,LinkedIn,Mobile
+269,2025-09-24,Facebook Ads,Mobile
+270,2025-09-02,LinkedIn,Mobile
+271,2025-09-19,LinkedIn,Desktop
+272,2025-09-17,Instagram Ads,Mobile
+273,2025-09-06,Instagram Ads,Desktop
+274,2025-09-17,Emailing,Mobile
+275,2025-09-28,LinkedIn,Tablet
+276,2025-09-03,LinkedIn,Mobile
+277,2025-09-22,Instagram Ads,Desktop
+278,2025-09-13,Emailing,Mobile
+279,2025-09-29,Emailing,Mobile
+280,2025-09-19,Instagram Ads,Desktop
+281,2025-09-02,Instagram Ads,Mobile
+282,2025-09-03,LinkedIn,Mobile
+283,2025-09-22,LinkedIn,Mobile
+284,2025-09-30,Emailing,Mobile
+285,2025-09-07,Instagram Ads,Mobile
+286,2025-09-23,LinkedIn,Mobile
+287,2025-09-08,LinkedIn,Mobile
+288,2025-09-13,LinkedIn,Mobile
+289,2025-09-22,LinkedIn,Mobile
+290,2025-09-15,Instagram Ads,Mobile
+291,2025-09-30,Instagram Ads,Mobile
+292,2025-09-01,Emailing,Tablet
+293,2025-09-20,Instagram Ads,Desktop
+294,2025-09-04,Emailing,Mobile
+295,2025-09-18,LinkedIn,Mobile
+296,2025-09-17,Instagram Ads,Mobile
+297,2025-09-05,LinkedIn,Desktop
+298,2025-09-29,LinkedIn,Desktop
+299,2025-09-29,Instagram Ads,Mobile
+300,2025-09-12,Emailing,Desktop
+301,2025-09-06,LinkedIn,Tablet
+302,2025-09-27,LinkedIn,Mobile
+303,2025-09-20,LinkedIn,Tablet
+304,2025-09-22,Emailing,Desktop
+305,2025-09-10,Emailing,Tablet
+306,2025-09-29,LinkedIn,Mobile
+307,2025-09-09,LinkedIn,Mobile
+308,2025-09-29,Emailing,Desktop
+309,2025-09-24,LinkedIn,Mobile
+310,2025-09-09,Facebook Ads,Desktop
+311,2025-09-20,Instagram Ads,Mobile
+312,2025-09-23,Instagram Ads,Mobile
+313,2025-09-07,LinkedIn,Desktop
+314,2025-09-21,Instagram Ads,Desktop
+315,2025-09-17,LinkedIn,Mobile
+316,2025-09-09,Emailing,Desktop
+317,2025-09-03,Emailing,Mobile
+318,2025-09-14,LinkedIn,Mobile
+319,2025-09-02,Emailing,Mobile
+320,2025-09-11,Emailing,Mobile
+321,2025-09-21,Emailing,Mobile
+322,2025-09-06,Emailing,Mobile
+323,2025-09-15,Emailing,Mobile
+324,2025-09-18,Emailing,Desktop
+325,2025-09-04,Facebook Ads,Desktop
+326,2025-09-29,Emailing,Mobile
+327,2025-09-29,Emailing,Desktop
+328,2025-09-18,Emailing,Tablet
+329,2025-09-27,Emailing,Mobile
+330,2025-09-19,LinkedIn,Mobile
+331,2025-09-05,Instagram Ads,Mobile
+332,2025-09-05,Instagram Ads,Mobile
+333,2025-09-10,LinkedIn,Desktop
+334,2025-09-29,Emailing,Mobile
+335,2025-09-29,Emailing,Tablet
+336,2025-09-07,Emailing,Mobile
+337,2025-09-08,LinkedIn,Mobile
+338,2025-09-12,Emailing,Mobile
+339,2025-09-20,LinkedIn,Desktop
+340,2025-09-05,LinkedIn,Mobile
+341,2025-09-28,Emailing,Mobile
+342,2025-09-26,Emailing,Mobile
+343,2025-09-29,Emailing,Mobile
+344,2025-09-01,LinkedIn,Tablet
+345,2025-09-24,Emailing,Mobile
+346,2025-09-26,Instagram Ads,Mobile
+347,2025-09-26,LinkedIn,Desktop
+348,2025-09-09,Instagram Ads,Mobile
+349,2025-09-26,Emailing,Desktop
+350,2025-09-04,Instagram Ads,Mobile
+351,2025-09-28,Facebook Ads,Desktop
+352,2025-09-28,Instagram Ads,Desktop
+353,2025-09-08,Facebook Ads,Mobile
+354,2025-09-27,Emailing,Mobile
+355,2025-09-12,LinkedIn,Desktop
+356,2025-09-27,Facebook Ads,Mobile
+357,2025-09-08,Facebook Ads,Mobile
+358,2025-09-22,Instagram Ads,Mobile
+359,2025-09-13,Emailing,Tablet
+360,2025-09-09,Facebook Ads,Mobile
+361,2025-09-25,Emailing,Desktop
+362,2025-09-12,Emailing,Desktop
+363,2025-09-17,Facebook Ads,Mobile
+364,2025-09-22,Emailing,Desktop
+365,2025-09-11,Emailing,Mobile
+366,2025-09-04,Emailing,Mobile
+367,2025-09-06,LinkedIn,Mobile
+368,2025-09-02,LinkedIn,Tablet
+369,2025-09-20,LinkedIn,Mobile
+370,2025-09-12,Instagram Ads,Mobile
+371,2025-09-14,LinkedIn,Tablet
+372,2025-09-13,Emailing,Mobile
+373,2025-09-09,Emailing,Mobile
+374,2025-09-23,Emailing,Mobile
+375,2025-09-01,Emailing,Desktop
+376,2025-09-30,Facebook Ads,Mobile
+377,2025-09-12,Emailing,Mobile
+378,2025-09-03,LinkedIn,Desktop
+379,2025-09-30,Instagram Ads,Tablet
+380,2025-09-20,Emailing,Desktop
+381,2025-09-22,Emailing,Mobile
+382,2025-09-24,Facebook Ads,Mobile
+383,2025-09-17,Instagram Ads,Mobile
+384,2025-09-22,Emailing,Desktop
+385,2025-09-11,LinkedIn,Mobile
+386,2025-09-23,Emailing,Tablet
+387,2025-09-18,Instagram Ads,Mobile
+388,2025-09-07,Emailing,Mobile
+389,2025-09-22,Instagram Ads,Mobile
+390,2025-09-22,Facebook Ads,Mobile
+391,2025-09-29,Emailing,Mobile
+392,2025-09-20,Emailing,Desktop
+393,2025-09-10,Emailing,Mobile
+394,2025-09-18,Instagram Ads,Desktop
+395,2025-09-10,Emailing,Tablet
+396,2025-09-07,Instagram Ads,Desktop
+397,2025-09-26,Emailing,Mobile
+398,2025-09-20,Emailing,Mobile
+399,2025-09-11,Emailing,Mobile
+400,2025-09-15,Emailing,Mobile
+401,2025-09-22,Facebook Ads,Desktop
+402,2025-09-17,LinkedIn,Mobile
+403,2025-09-26,Facebook Ads,Desktop
+404,2025-09-22,Emailing,Mobile
+405,2025-09-10,Emailing,Mobile
