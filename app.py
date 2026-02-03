@@ -37,9 +37,9 @@ st.markdown(
 @st.cache_data
 def load_data():
     leads = pd.read_csv("data/leads_smartmarket_extended.csv", parse_dates=["date"])
-    crm = pd.read_excel("data/crm_smartmarket_extended.xlsx")
-    with open("data/campaign_smartmarket.json", "r", encoding="utf-8") as f:
-        campaigns = pd.DataFrame(json.load(f))
+crm = pd.read_excel("data/crm_smartmarket_extended.xlsx")
+with open("data/campaign_smartmarket.json", "r", encoding="utf-8") as f:
+    campaigns = pd.DataFrame(json.load(f))
 
 
     def norm_cols(df):
@@ -219,42 +219,22 @@ with row1_right:
 with row2_left:
     st.subheader("Qualité business : Canal × Statut")
     if not ct_channel_status.empty:
-        # Hauteur/largeur uniformes
-        fig, ax = plt.subplots(figsize=(6.2, 3.4), dpi=140)
-
+        fig, ax = plt.subplots(figsize=(6.2, 3.4))
         ct = ct_channel_status.copy()
-
-        # Ordre des colonnes stable (statuts)
-        status_order = [c for c in ["MQL", "SQL", "Client"] if c in ct.columns]
-        if status_order:
-            ct = ct[status_order]
-
-        # Ordre des lignes stable (canaux)
-        channel_order = [c for c in ["Emailing", "Facebook Ads", "Instagram Ads", "LinkedIn"] if c in ct.index]
-        if channel_order:
-            ct = ct.reindex(channel_order)
-
-        ct.plot(kind="bar", stacked=True, ax=ax, width=0.7)
-
+        # Colonnes dans un ordre stable si elles existent
+        wanted = [c for c in ["MQL", "SQL", "Client"] if c in ct.columns]
+        if wanted:
+            ct = ct[wanted]
+        ct.plot(kind="bar", stacked=True, ax=ax)
         ax.set_title("Répartition des statuts par canal", fontsize=11)
         ax.set_xlabel("Canal")
         ax.set_ylabel("Nombre de leads")
-        ax.tick_params(axis="x", rotation=20)
-
-        # Légende en bas -> évite le décalage à droite
-        ax.legend(
-            title="Statut",
-            loc="upper center",
-            bbox_to_anchor=(0.5, -0.22),
-            ncol=min(3, len(ct.columns)),
-            frameon=False
-        )
-
+        plt.xticks(rotation=20, ha="right")
+        ax.legend(title="Statut", bbox_to_anchor=(1.02, 1), loc="upper left")
         plt.tight_layout()
         st.pyplot(fig, use_container_width=True)
     else:
         st.info("Statut CRM indisponible ou aucun lead après filtrage.")
-
 
 # Graph 4: Leads par région
 with row2_right:
